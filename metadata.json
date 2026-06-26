@@ -1,0 +1,6 @@
+{
+  "name": "Dan E san",
+  "description": "An adventure game set in the beautiful land of Isan, featuring custom controls, game menus, and rich Thai Isan culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
